@@ -12,7 +12,7 @@
 - ⚛️ React (em aprendizado)
 - 🐘 PHP | 🐍 Python | 🐬 MySQL (em exploração aprofundada)
 - 🎨 Figma (para prototipagem)
-- 🧰 VS Code | Git & GitHub | Wamp Server | XAMP
+- 🧰 VS Code | Git & GitHub | Wamp Server | XAMPP
 
 ---
 

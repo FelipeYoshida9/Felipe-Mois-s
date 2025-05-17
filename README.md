@@ -21,7 +21,6 @@
 - Dio - Cursos de Front-End e Inteligência Artificial
 - Coursera (planejado para breve)
 - Estudos por conta própria com projetos pessoais no GitHub
-- Interesses extras: Coreano, Hebraico, Filosofia e Teclado Musical 🎹
 
 ---
 
